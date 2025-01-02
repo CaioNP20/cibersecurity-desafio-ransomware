@@ -7,4 +7,7 @@
 - teste.txt: arquivo usado para testes
 
 ### Texto antes de criptografar:
+!(antes_de_criptografar.jpg)
 
+### Texto após criptografar:
+!(apos_criptografar.jpg)
