@@ -6,8 +6,8 @@
 - encrypter.py: responsável por criptografar o arquivo "teste.txt"
 - teste.txt: arquivo usado para testes
 
-### Texto antes de criptografar:
-!(antes_de_criptografar.jpg)
+### Texto antes de criptografar/após decriptografar:
+![Texto antes de criptografar/após decriptografar](antes_de_criptografar.jpg)
 
 ### Texto após criptografar:
-!(apos_criptografar.jpg)
+![Texto após criptografar](apos_criptografar.jpg)
